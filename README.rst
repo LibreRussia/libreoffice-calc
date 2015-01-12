@@ -17,7 +17,7 @@ Read The Docs
 
 Сервис Read The Docs содержит ряд полезных функций. Обратите внимание на темный прямоугольник в правом нижнем углу — нажмите на него. 
 
-.. figure:: _static/rtd-001.png
+.. figure:: docs/_static/rtd-001.png
     :scale: 30%
     :align: center
     :alt: Меню Read The Docs
@@ -26,7 +26,7 @@ Read The Docs
 
 Откроется панель, на которой находятся ссылки для скачивания руководства в различных форматах  другие функции:
 
-.. figure:: _static/rtd-002.png
+.. figure:: docs/_static/rtd-002.png
     :scale: 30%
     :align: center
     :alt: Меню Read The Docs
