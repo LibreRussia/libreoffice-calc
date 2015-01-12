@@ -4,8 +4,8 @@
    :keywords: LibreOffice, Writer, Impress, Calc, Math, Base, Draw, либреоффис
 
 
-Краткое руководство по LibreOffice
-==================================
+Краткое руководство по табличному процессору LibreOffice Calc
+=============================================================
 
 .. toctree:: 
    :maxdepth: 3
